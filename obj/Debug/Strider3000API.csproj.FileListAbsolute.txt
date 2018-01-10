@@ -1,0 +1,20 @@
+C:\Users\Administrator\.Nimi Places\Containers\In progress\Strider3000API\Strider3000API\bin\Debug\Strider3000API.exe.config
+C:\Users\Administrator\.Nimi Places\Containers\In progress\Strider3000API\Strider3000API\bin\Debug\Strider3000API.exe
+C:\Users\Administrator\.Nimi Places\Containers\In progress\Strider3000API\Strider3000API\bin\Debug\Strider3000API.pdb
+C:\Users\Administrator\.Nimi Places\Containers\In progress\Strider3000API\Strider3000API\obj\Debug\Strider3000API.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\.Nimi Places\Containers\In progress\Strider3000API\Strider3000API\obj\Debug\Strider3000API.Form1.resources
+C:\Users\Administrator\.Nimi Places\Containers\In progress\Strider3000API\Strider3000API\obj\Debug\Strider3000API.Properties.Resources.resources
+C:\Users\Administrator\.Nimi Places\Containers\In progress\Strider3000API\Strider3000API\obj\Debug\Strider3000API.csproj.GenerateResource.Cache
+C:\Users\Administrator\.Nimi Places\Containers\In progress\Strider3000API\Strider3000API\obj\Debug\Strider3000API.exe
+C:\Users\Administrator\.Nimi Places\Containers\In progress\Strider3000API\Strider3000API\obj\Debug\Strider3000API.pdb
+C:\Users\Administrator\.Nimi Places\Containers\In progress\Strider3000API\Strider3000API\obj\Debug\Strider3000API.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Strider3000API\Strider3000API\bin\Debug\Strider3000API.exe.config
+C:\Users\Administrator\Desktop\Strider3000API\Strider3000API\bin\Debug\Strider3000API.exe
+C:\Users\Administrator\Desktop\Strider3000API\Strider3000API\bin\Debug\Strider3000API.pdb
+C:\Users\Administrator\Desktop\Strider3000API\Strider3000API\obj\Debug\Strider3000API.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Strider3000API\Strider3000API\obj\Debug\Strider3000API.Form1.resources
+C:\Users\Administrator\Desktop\Strider3000API\Strider3000API\obj\Debug\Strider3000API.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Strider3000API\Strider3000API\obj\Debug\Strider3000API.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\Strider3000API\Strider3000API\obj\Debug\Strider3000API.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Strider3000API\Strider3000API\obj\Debug\Strider3000API.exe
+C:\Users\Administrator\Desktop\Strider3000API\Strider3000API\obj\Debug\Strider3000API.pdb
